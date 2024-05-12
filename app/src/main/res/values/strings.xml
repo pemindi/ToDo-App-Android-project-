@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">ClearQuest</string>
+    <string name="splash">Simplify Your Tasks, Elevate Your Productivity.</string>
+    <string name="signup">sign up</string>
+    <string name="login">login</string>
+    <string name="Hi1">Hi, Jae !</string>
+    <string name="Hi2">Let\'s make this productive</string>
+    <string name="Hi3">My tasks</string>
+    <string name="Hi4">Completed</string>
+    <string name="Hi5">pending</string>
+    <string name="Hi6">Canceled</string>
+    <string name="Hi7">On going</string>
+    <string name="Hi8">My tasks</string>
+    <string name="Hi9">Today\'s tasks  > </string>
+    <string name="Hi10">view all</string>
+    <string name="add">Add a task</string>
+    <string name="edit">Edit the task</string>
+    <string name="dashboard">dashboard</string>
+    <string name="acc">acc</string>
+    <string name="help">help</string>
+    <string name="notification">notification</string>
+
+    <string name="title">Title</string>
+    <string name="date">dd/mm/yy</string>
+    <string name="timeS">start-time</string>
+    <string name="timeE">end-time</string>
+    <string name="des">Description</string>
+    <string name="type">Type</string>
+    <string name="tags">Tags</string>
+
+    <string name="ViewAll">View All Tasks</string>
+
+</resources>
